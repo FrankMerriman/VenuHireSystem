@@ -1,0 +1,13 @@
+{ "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
+{ "command": "room", "venue": "City", "room": "Hydrant", "size": "medium" }
+{ "command": "room", "venue": "Space", "room": "Star", "size": "large" }
+{ "command": "room", "venue": "Canyon", "room": "Gravel", "size": "small" }
+{ "command": "request", "id": "Annual Meeting", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Latest Date", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "First Date", "start": "2019-01-25", "end": "2019-01-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "MiddleSecond Date", "start": "2019-02-25", "end": "2019-02-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "MiddleFirst Date", "start": "2019-01-27", "end": "2019-01-28", "small": 1, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "Zoo" }
+{ "command": "list", "venue": "City" }
+{ "command": "list", "venue": "Space" }
+{ "command": "list", "venue": "Canyon" }

@@ -1,0 +1,10 @@
+{ "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
+{ "command": "request", "id": "Annual Meeting", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Annual Meeting", "start": "2019-03-25", "end": "2019-03-26", "small": 3, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Annual Meeting", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Annual Meeting", "start": "2012-03-25", "end": "2012-03-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Weekly Meeting", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Weekly Meeting", "start": "2019-02-25", "end": "2019-02-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
+{ "command": "room", "venue": "Zoo", "room": "Jaguar", "size": "medium" }
+{ "command": "list", "venue": "Zoo" }

@@ -1,0 +1,59 @@
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Jaguar"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2019-03-25",
+      "end": "2019-03-26",
+      "id": "Annual Meeting"
+    }],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-25",
+      "end": "2019-03-26",
+      "id": "Annual Meeting"
+    }],
+    "room": "Jaguar"
+  }
+]
+[{
+  "reservations": [],
+  "room": "Car"
+}]
+{"status": "rejected"}
+{
+  "venue": "City",
+  "rooms": ["Car"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [],
+    "room": "Jaguar"
+  }
+]
+[{
+  "reservations": [{
+    "start": "2019-03-25",
+    "end": "2019-03-26",
+    "id": "Annual Meeting"
+  }],
+  "room": "Car"
+}]

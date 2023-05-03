@@ -1,0 +1,35 @@
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2019-02-25",
+        "end": "2019-02-26",
+        "id": "Weekly Meeting"
+      },
+      {
+        "start": "2019-03-25",
+        "end": "2019-03-26",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [],
+    "room": "Jaguar"
+  }
+]
